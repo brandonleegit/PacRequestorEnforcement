@@ -1,6 +1,6 @@
 # PacRequestorEnforcement Registry key with PowerShell
 
-PowerShell script to automatically create the PacRequestorEnforcement registry key and configure the DWORD value using the following settings:
+PowerShell script to automatically check for and create the PacRequestorEnforcement registry key and configure the DWORD value using the following settings:
 
 - Deployment Mode - DWORD value is set to 1
 - Enforcement Mode - DWORD value is set to 2
